@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9476'
     url: http://www.gutenberg.org/2009/agents/9476
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31131#Boys-Book-of-Indian-Warriors-and-Heroic-Indian-Women
 gutenberg_issued: '2010-01-30'
 gutenberg_type: Text
 identifiers:
